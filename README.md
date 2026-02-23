@@ -6,6 +6,7 @@
 Analyzed the **OSMI** Mental Health in Tech dataset to identify key factors influencing mental health in the tech workspace and understand its impact on work and well-being.
 
 **Tools & Technologies:** Python (Pands, Numpy, Seaborn, Matplotlib), Jupyter Notebook
+
 **Dataset:** [Kaggle Mental Health in the Tech Workplace](https://www.kaggle.com/osmi/mental-health-in-tech-survey)
 
 **Context**
@@ -61,4 +62,4 @@ This dataset is from a 2014 survey that measures attitudes towards mental health
 
  ---
 
- Notebook - [`mental-health-in-tech-analysis.ipynb`](mental-health-in-tech-analysis.ipynb)` - Complete analysis (cleaning, viz, correlations)
+ Notebook - [`mental-health-in-tech-analysis.ipynb`](mental-health-in-tech-analysis.ipynb) - Complete analysis (cleaning, viz, correlations)
